@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Edgar Amiraghyan",
   "license": "ISC",
   "dependencies": {
     "prompts": "^2.4.2"
